@@ -1,5 +1,7 @@
 package RetirementCalc;
 
+// This lab was completed with Shane Croce, Mitchell Land, Ahmed Joban 
+
 import java.util.Scanner;
 
 public class RetirementCalc {
